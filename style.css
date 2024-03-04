@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  #signatureCanvas {
+    border: 1px solid #ccc;
+    cursor: crosshair;
+  }
+  .controls {
+    margin-top: 20px;
+  }
